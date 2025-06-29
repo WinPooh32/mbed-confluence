@@ -1,4 +1,4 @@
-# embed-confluence
+# mbed-confluence
 
 Provides shared C library that controls the [anacrolix/confluence](https://github.com/anacrolix/confluence) server for providing torrent contents over http.
 
